@@ -44,6 +44,8 @@
 
 ### Решение 1
 
+Конфигурационный файл haproxy: [image/haproxy-1.cfg]
+
 ![](image/image1.png)
 
 ![](image/image2.png)
