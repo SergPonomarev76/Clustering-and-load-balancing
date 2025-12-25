@@ -60,6 +60,8 @@
 
 ### Решение 2
 
+![Конфигурационный файл haproxy](image/haproxy-2.cfg)
+
 ![](image/image3.png)
 
 ![](image/image4.png)
