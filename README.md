@@ -44,7 +44,7 @@
 
 ### Решение 1
 
-Конфигурационный файл haproxy:
+Конфигурационный файл haproxy: [haproxy-1.cfg](/files/haproxy-1.cfg)
 
 `````
 global
