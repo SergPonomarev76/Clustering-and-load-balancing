@@ -127,7 +127,7 @@ listen web_tcp
 
 ### Решение 2
 
-Конфигурационный файл haproxy:
+Конфигурационный файл haproxy: [haproxy-2.cfg](/files/haproxy-2.cfg)
 
 `````
 global
